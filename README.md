@@ -9,3 +9,5 @@ This application allows to reduce a share screen or window with video playing an
 Javascript, HTML, CSS
 
 ## Launch
+
+https://jokoul.github.io/project-39-picture-in-picture
